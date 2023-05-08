@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gonzalez-J
 - 👀 I’m interested in Technology, especially Cloud based platforms.
 - 🌱 I’m currently learning CompTIA A+, Microsoft Azure, Intune training with Microsoft Endpoint (MDM/MAM), and Microsoft Active Directory. 
--    (Current Course Careers student)
+-    (Course Careers Graduate)
 - 📫 How to reach me julio.nmn.gonzalez@gmail.com or https://www.linkedin.com/in/julio-gonzalez813/...
 
 <!---
